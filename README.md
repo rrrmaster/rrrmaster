@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋
 - 🌱 I’m currently learning Shader, Golang, Image Processing
 - 💬 Ask me about Korean C# Programmer
 - 📫 How to reach me: Kakao Talk  
@@ -7,19 +6,7 @@
   - Email : dudgus9101@Naver.com
 - ⚡ Fun fact: Game Programming and Game Play
 
-<!--
-**rrrmaster/rrrmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
-
 ## 🛠 Technologies & Tools
-
 <h3>OS</h3>
 <p>
   <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
