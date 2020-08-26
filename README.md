@@ -18,12 +18,13 @@
 
 <h3>Code</h3>
 <p>
-  <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
-  <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
+  <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 <h3>Tools</h3>
 <p>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="Xamarin" src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devOps&logoColor=white"/>
