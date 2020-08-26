@@ -44,5 +44,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrrmaster&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/rrrmaster/rrrmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrrmaster&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrrmaster&show_icons=true&line_height=27&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=2bbc8a" alt="Martin's GitHub Stats" />
 </a>
