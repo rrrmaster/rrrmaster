@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/rrrmaster/rrrmaster/master/c-animation.gif "Header")]
+<p>
+  <img alt="Window" src="https://raw.githubusercontent.com/rrrmaster/rrrmaster/master/c-animation.gif" width=300px/>
+</p>
 
 ## Hi there 👋
 - 🌱 I’m currently learning Shader, Golang, Image Processing
