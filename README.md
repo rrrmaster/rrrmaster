@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
+## &#x1f4c8; GitHub Stats
+
 ![GitHub followers](https://img.shields.io/github/followers/rrrmaster?style=social)
