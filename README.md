@@ -41,8 +41,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rrrmaster/rrrmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrrmaster&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0,2b5876,4e4376" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrrmaster&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
 </a>
 <a href="https://github.com/rrrmaster/rrrmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrrmaster&show_icons=true&line_height=27&count_private=true&bg_color=0,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrrmaster&show_icons=true&line_height=27&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af" alt="Martin's GitHub Stats" />
 </a>
