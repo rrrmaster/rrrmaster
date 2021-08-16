@@ -13,7 +13,7 @@
 ## 🛠 Technologies & Tools
 <h3>OS</h3>
 <p>
-  <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img alt="de" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 <h3>Code</h3>
