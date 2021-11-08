@@ -22,24 +22,23 @@
 <p>
   <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
   <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img alt="C%2B%2B" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 
 <h3>Tools</h3>
 <p>
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="Xamarin" src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devOps&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img alt="Cocos-2dx" src="https://img.shields.io/badge/-Cocos-55C2E1?style=flat-square&logo=cocos&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 </p>
 
 <h3>Cloud</h3>
 <p>
   <img alt="Azure Cloud" src="https://img.shields.io/badge/-Azure_Cloud-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img alt="Azure Cloud" src="https://img.shields.io/badge/-AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS Cloud" src="https://img.shields.io/badge/-AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ## ⚡ My Achievements
