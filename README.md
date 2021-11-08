@@ -22,6 +22,7 @@
 <p>
   <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
   <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C%2B%2B" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 
 <h3>Tools</h3>
@@ -38,6 +39,7 @@
 <h3>Cloud</h3>
 <p>
   <img alt="Azure Cloud" src="https://img.shields.io/badge/-Azure_Cloud-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img alt="Azure Cloud" src="https://img.shields.io/badge/-AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ## ⚡ My Achievements
