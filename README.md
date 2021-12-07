@@ -7,9 +7,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Shader, Golang, Image Processing
 - 💬 Ask me about Korean C# Programmer
-- 📫 How to reach me: Kakao Talk  
-  - Kakao Talk ID : side5569
-  - Email : dudgus9101@Naver.com
 - ⚡ Fun fact: Game Programming and Game Play
 
 ## 🛠 Technologies & Tools
