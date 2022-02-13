@@ -43,6 +43,7 @@
 ## ⚡ My Achievements
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgus9101)](https://solved.ac/dudgus9101)
+![LeetCode Stats](https://leetcode.card.workers.dev/rrrmaster?theme=auto&font=source_code_pro&extension=null)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/rrrmaster/rrrmaster">
