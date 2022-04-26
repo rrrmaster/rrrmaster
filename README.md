@@ -24,8 +24,8 @@
 <h2 align="center"><b>📈 Github Status 📈</b></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rrrmaster"/>
-<img src="http://mazandi.herokuapp.com/api?handle=dudgus9101&theme=warm"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=rrrmaster"/>
+<img width="40%" src="http://mazandi.herokuapp.com/api?handle=dudgus9101&theme=warm"/>
 
 </p>
 
