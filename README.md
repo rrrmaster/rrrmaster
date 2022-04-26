@@ -21,7 +21,7 @@
 </p>
 
 <br/>
-<h2 align="center"><b>📈 Github Status 📈</b></h2>
+<h2 align="center"><b>📈 My Status 📈</b></h2>
 
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rrrmaster"/>
