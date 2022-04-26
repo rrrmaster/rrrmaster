@@ -13,13 +13,20 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp
 </p>
+<br/>
 
-<br/><br/>
+<h2 align="center"><b>📙 Achievements 📙</b></h2>
+<p align="center">
+  <a href="https://solved.ac/dudgus9101"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dudgus9101"/></a>
+</p>
+
+<br/>
 <h2 align="center"><b>📈 Github Status 📈</b></h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rrrmaster"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrrmaster&langs_count=3"/>
+<img src="http://mazandi.herokuapp.com/api?handle=dudgus9101&theme=warm"/>
+
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=Wave&color=088aec&height=200&section=footer)
