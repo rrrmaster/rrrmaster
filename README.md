@@ -15,6 +15,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrmaster&show_icons=true&theme=radical)  
 
 ### 🔗 Connect with me  
-- GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/rrrmaster)  
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/dev-leeyounghyeon)  
-- Email: dudgus9101@gmail..com  
+- GitHub: [github.com/rrrmaster](https://github.com/rrrmaster)  
+- LinkedIn: [linkedin.com/in/leeyounghyeon](https://linkedin.com/in/dev-leeyounghyeon)  
+- Email: dudgus9101@gmail.com  
